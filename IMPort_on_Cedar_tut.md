@@ -28,7 +28,7 @@ Folders and files included in this project:
    * prep_hyper_imp_v2ux.py
    * ... and others 
 
-The **data** folder contains various artifacts used to inform the integrative modeling.
+The **data** folder contains structural data used to inform the integrative modeling.
 The **imp_model** folder contains the driver python script and example yaml configuration for running the IMP modeling job.
 
 
